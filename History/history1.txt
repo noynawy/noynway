@@ -1,0 +1,44 @@
+  577  ls
+  578  cd~
+  579  pwd
+  580  ls
+  581  cd ~
+  582  mkdir linuxexam
+  583  cd /home/noynawy/linuxexam
+  584  clone https://github.com/Tel-Hai-Linux-Exam/206038713.git
+  585  clone https://github.com/noynawy/noynway.git
+  586  chmod +x push.sh
+  587  ./push.sh https://github.com/noynawy/noynway.git
+  588  mkdir History
+  589  mkdir CodeInstallation
+  590  mkdir Outputs
+  591  rmkdir CodeInstallation
+  592  wget https://github.com/tel-hai-linux-exam/exama/archive/refs/tags/download.tar.gz
+  593  tar -xzf download.tar.gz
+  594  cp -r EXEMA-DOWNLAD/* /home/noynawy/linuxexam/code
+  595  ls
+  596  cp -r EXAMA-download/* /home/noynawy/linuxexam/code
+  597  tar -xzf download.tar.gz
+  598  cp -r EXAMA-download/* /home/noynawy/linuxexam/code
+  599  touch dowland.sh
+  600  chmod +x dowland.sh
+  601  ./dowland
+  602  cp -r EXAMA-download/* code/
+  603  ls
+  604  cp -r EXAMA-download/* Code/
+  605  rm -r EXAMA-download
+  606  rm download.tar.gz
+  607  rm dowland.sh
+  608  cd Oututs
+  609  cd /home/noynawy/linuxexam/Outputs
+  610  touch out1.txt
+  614  touch out1.txt
+  615  date > out1.txt
+  618  ls -R linuxexam >> out1.txt
+  619  date > out1.txt
+  621  ls -R >> out1.txt
+  622  rm out.txt
+  623  cd 
+  624  cd /home/noynawy/linuxexam/History
+  625  touch history1.txt
+  626  history | tail -50 >>history1.txt

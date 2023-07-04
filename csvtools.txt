@@ -1,0 +1,11 @@
+Date collected,Species,Sex,Weight
+8-Jan,PF,M,7
+18-Feb,OT,M,24
+19-Feb,OT,F,23
+11-Mar,NA,M,232
+11-Mar,OT,F,22
+11-Mar,OT,M,26
+11-Mar,PF,M,8
+8-Apr,NA,F,8
+6-May, NA,F ,45
+18-May,NA,F,182
