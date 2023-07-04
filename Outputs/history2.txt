@@ -1,0 +1,50 @@
+  640  tree
+  641  tree outputs >> out2.txt
+  642  tree linuxexam >> out2.txt
+  643  tree >> out2.txt
+  644  cd /home/noynawy/linuxexam
+  645  tree Outputs >> out2.txt
+  646  rm out2.txt
+  647  cd /home/noynawy/linuxexam/Outputs
+  648  git init
+  649  git remote add origin https://github.com/noynawy/noynway.git
+  650  git push -u origin master
+  651  git init
+  652  git add .
+  653  git commit "2"
+  654  git remote add origin https://github.com/noynawy/noynway.git
+  655  git push -u
+  656  git checkout master
+  657  git push -u origin master
+  658  git merge main master
+  659  git remote add origin https://github.com/noynawy/noynway.git
+  660  git push -u origin master
+  661  rm out2.txt
+  662  touch out2.txt
+  663  tree >> out2.txt
+  664  git init
+  665  git add .
+  666  git commit -m "2"
+  667  git remote add origin https://github.com/noynawy/noynway.git 
+  668  git push -u
+  669  git checkout master
+  670  git push -u origin master
+  671  git checkout master
+  672  git push -u
+  673  cd ~
+  674  cd /home/noynawy/linuxexam
+  675  git init
+  676  git add .
+  677  git remote add origin https://github.com/noynawy/noynway.git 
+  678  git push -u
+  679  git checkout master
+  680  git push -u origin master
+  681  cd Outputs
+  682  git init
+  683  git add .
+  684  git remote add origin https://github.com/noynawy/noynway.git 
+  685  git push -u
+  686  git checkout master
+  687  git push -u origin master
+  688  touch history2.txt
+  689  history |tail -n 50 >> history2.txt

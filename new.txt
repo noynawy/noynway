@@ -1,2 +1,0 @@
-/home/noynawy/one/u.txt - number of lines: 0
-dbgdbs/home/noynawy/one/x.txt - number of lines: 0
